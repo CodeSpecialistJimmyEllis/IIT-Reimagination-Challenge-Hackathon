@@ -11,6 +11,17 @@ This is the link to the hackathon
 https://www.eventbrite.com/e/the-re-imagination-challenge-tickets-10859604369#   and then click "VIEW DETAILS"
 Since the event is over you have to click "VIEW DETAILS" after you enter this link to look at the old hackathon information
 
+
+
+The Re-Imagination Challenge
+Monkey Bars and The IIT Student Government Association
+Saturday, March 29, 2014 at 11:00 AM - Sunday, March 30, 2014 at 3:00 PM (CDT)
+Chicago, IL
+Hackathon Location
+Idea Shop 
+3440 S Dearborn St 
+Chicago, IL 60616
+
 My team did not win the hackathon. 
 
 This project is written in C#. This project uses the XNA Frame work. This project uses Microsoft.Speech. 
