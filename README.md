@@ -1,7 +1,12 @@
 # IIT-Reimagination-Challenge-Hackathon
 Hackathon Date: March 29th - March 30th 2014. IIT (Illinois Institute of Technology) threw a hackathon asking their students to create software that could improve the school. I was then not a student of IIT nor am I now. Me and IIT students created an information app with Test to Speech capabilty that answered and informed people on the school.
 
-This project was made in Visual Studios 2010. Opening in that version of visual studios will gurantee it working. 
+This project was made in Visual Studios 2010. Opening in that version of visual studios will gurantee it working.
+C#
+.NET 4.0
+XNA 4.0 
+Visual Studio 2014
+Microsoft.Speech
 
 Hackathon Date: March 29th - March 30th 2014. IIT (Illinois Institute of Technology) threw a hackathon asking their students to create
 software that could improve the school. I was then not a student of IIT nor am I now. The hackathon was only for IIT students but they
