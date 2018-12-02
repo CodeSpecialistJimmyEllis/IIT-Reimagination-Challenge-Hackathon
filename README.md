@@ -8,6 +8,13 @@ XNA 4.0
 Visual Studio 2014
 Microsoft.Speech
 
+This game was made using the code from the Leap XNA sample
+
+https://github.com/dsp56001/XNAWindowsLeapMotion
+
+That is the project leap motion released for using xna and the leap motion hand controller together.
+
+
 Hackathon Date: March 29th - March 30th 2014. IIT (Illinois Institute of Technology) threw a hackathon asking their students to create
 software that could improve the school. I was then not a student of IIT nor am I now. The hackathon was only for IIT students but they
 told me I was deeply welcome to compete if I wanted to as I had gone to many of their hackathons at their point. Me and IIT students 
