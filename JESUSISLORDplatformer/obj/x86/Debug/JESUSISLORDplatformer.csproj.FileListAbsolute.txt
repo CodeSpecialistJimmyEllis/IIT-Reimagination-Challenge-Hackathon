@@ -1,0 +1,844 @@
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Contentx.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Contentx.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Contentx.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\IMG_1359.PNG
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\goku.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\goku1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\superman1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\superman.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORD-supermanwins.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDbluelight.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDredlight.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDtitlescreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Final Fantasy VI OST - Victory Fanfare.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\background.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Final Fantasy VI OST - Victory Fanfare.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bossfight.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\video\gokuwinsvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\video\gokuwinsvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\video\supermanwinsvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\video\supermanwinsvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\goku0.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\superman0.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORD-gokuwins.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bossfight.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\JESUSISLORDgame27opening.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\JESUSISLORDgame27opening.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\video\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\video\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISLORDplatformer - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Contentx.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\goku1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\IMG_1359.PNG
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt2win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid2.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\superman1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODgame31\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Contentx.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\goku1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt2win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\superman1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid2.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\IMG_1359.PNG
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday32\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Contentx.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\IMG_1359.PNG
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUSONGFIGHT.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\JESUSISGODday34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Contentx.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUSONGFIGHT.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\IMG_1359.PNG
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUFIGHT.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\FireBallSystem\S.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\FireBallSystem\K.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\FireBallSystem\A.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\FireBallSystem\fireball.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNA FAST - day34 - Copy\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\FireBallSystem\A.PNG
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUFIGHT.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\ONEDAYPROJECTS\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUFIGHT.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\0.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\10.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\11.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\12.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\13.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\14.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\15.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\16.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\17.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\18.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\19.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\20.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\21.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\22.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\23.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\24.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\25.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\4.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\5.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\6.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\7.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\8.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\xnafastdefaultfont\9.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUFIGHT.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\DotJackson\Documents\Visual Studio 2010\Projects\51\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\KUNGFUFIGHT.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+I:\Users\DotJackson\Desktop\Games\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgroundtexture.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Bluebackground.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\tokensuccess.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.wma
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.wma
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.wma
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1a.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2a.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\alt1win.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\asd.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\background01.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\dsa.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\IMG_4874.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\kungfusantaclaus.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\sd.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stopsign.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\WRONGHANDS.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\FONTOFTRUTH.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1backwards.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2backwards.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\computervirus.xnb
+C:\Users\User\Desktop\CHRIS GAME\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\infectedcomputer.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgroundtexture.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Bluebackground.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1a.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2a.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\alt1win.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\asd.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\background01.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\dsa.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\IMG_4874.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\kungfusantaclaus.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\sd.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stopsign.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\WRONGHANDS.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling1backwards.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling\scrolling2backwards.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\computervirus.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\infectedcomputer.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\FONTOFTRUTH.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\tokensuccess.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgroundtexture.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Bluebackground.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\alt1win.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\asd.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\background01.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\dsa.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\IMG_4874.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\kungfusantaclaus.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\sd.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stopsign.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\WRONGHANDS.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\computervirus.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\infectedcomputer.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\FONTOFTRUTH.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\tokensuccess.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.wmv
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1a.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1backwards.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2a.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2backwards.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.wma
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1a.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1backwards.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2a.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2backwards.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image1.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image10.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image2.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image3.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image4.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image5.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image6.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image7.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image8.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image9.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\button.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\buttonhit.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\whitebox.xnb
+C:\Users\User\Desktop\JIMMYS COMPUTER VIRUS LAYOUT (79) - Copy\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\SpriteFont1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\JESUSISLORDalt1win.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgroundtexture.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Bluebackground.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\alt1win.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\asd.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\background01.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\dsa.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\IMG_4874.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\kungfusantaclaus.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\sd.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stopsign.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\WRONGHANDS.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\computervirus.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\infectedcomputer.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1a.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1backwards.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2a.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2backwards.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1a.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1backwards.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2a.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2backwards.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\button.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\buttonhit.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image10.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image2.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image3.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image4.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image5.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image6.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image7.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image8.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image9.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\whitebox.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\FONTOFTRUTH.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\SpriteFont1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\tokensuccess.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.xnb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.wmv
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.wma
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\leaponscreen.wma
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.wma
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.wma
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\User\Desktop\WINDOWS DESKTOP ICONS\IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.csprojResolveAssemblyReference.cache
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\obj\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\alt1win.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\asd.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\background01.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\dsa.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\kungfusantaclaus.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\sd.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stopsign.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\WRONGHANDS.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\computervirus.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\infectedcomputer.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1a.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1backwards.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2a.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2backwards.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1backwards.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2backwards.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\button.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\buttonhit.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image10.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image2.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image3.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image4.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image5.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image6.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image7.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image8.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image9.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\whitebox.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\FONTOFTRUTH.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\SpriteFont1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\tokensuccess.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.wmv
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.wma
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.wma
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.wma
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.spritefont
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.exe
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\JESUSISLORDplatformer.pdb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1a.xnb
+C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2a.xnb

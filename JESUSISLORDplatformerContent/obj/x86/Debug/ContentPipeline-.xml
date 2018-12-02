@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>backgrounds\postencounter.PNG</Source>
+      <Name>backgrounds\postencounter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\postencounter.xnb</Output>
+      <Time>2014-02-04T01:27:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\TitleScreen.PNG</Source>
+      <Name>backgrounds\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\TitleScreen.xnb</Output>
+      <Time>2014-02-15T22:16:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\IMG_3255.PNG</Source>
+      <Name>sound\IMG_3255</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\IMG_3255.xnb</Output>
+      <Time>2014-01-12T22:52:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\masterbackground.PNG</Source>
+      <Name>backgrounds\masterbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\masterbackground.xnb</Output>
+      <Time>2014-01-22T21:16:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\stageground.PNG</Source>
+      <Name>backgrounds\stageground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stageground.xnb</Output>
+      <Time>2014-01-22T21:26:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>effects\JESUSISLORDeffectleft.PNG</Source>
+      <Name>effects\JESUSISLORDeffectleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectleft.xnb</Output>
+      <Time>2014-02-04T01:04:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>effects\JESUSISLORDeffectright.PNG</Source>
+      <Name>effects\JESUSISLORDeffectright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\effects\JESUSISLORDeffectright.xnb</Output>
+      <Time>2014-02-04T01:04:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>decidemeter\meterlose.PNG</Source>
+      <Name>decidemeter\meterlose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterlose.xnb</Output>
+      <Time>2014-02-04T01:50:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>decidemeter\meterneutral.PNG</Source>
+      <Name>decidemeter\meterneutral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterneutral.xnb</Output>
+      <Time>2014-02-04T01:50:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>decidemeter\meterright.PNG</Source>
+      <Name>decidemeter\meterright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterright.xnb</Output>
+      <Time>2014-02-04T01:50:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>decidemeter\meterwin.PNG</Source>
+      <Name>decidemeter\meterwin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwin.xnb</Output>
+      <Time>2014-02-04T01:50:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>decidemeter\meterwrong.PNG</Source>
+      <Name>decidemeter\meterwrong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\decidemeter\meterwrong.xnb</Output>
+      <Time>2014-02-04T01:50:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\alt1win.PNG</Source>
+      <Name>backgrounds\alt1win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\alt1win.xnb</Output>
+      <Time>2014-03-02T22:01:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\asd.PNG</Source>
+      <Name>backgrounds\asd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\asd.xnb</Output>
+      <Time>2014-03-02T21:58:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\background01.PNG</Source>
+      <Name>backgrounds\background01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\background01.xnb</Output>
+      <Time>2014-03-02T21:59:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\dsa.PNG</Source>
+      <Name>backgrounds\dsa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\dsa.xnb</Output>
+      <Time>2014-02-27T18:50:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\kungfusantaclaus.PNG</Source>
+      <Name>backgrounds\kungfusantaclaus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\kungfusantaclaus.xnb</Output>
+      <Time>2014-03-28T00:04:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\sd.PNG</Source>
+      <Name>backgrounds\sd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\sd.xnb</Output>
+      <Time>2014-03-23T01:04:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\stopsign.PNG</Source>
+      <Name>backgrounds\stopsign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\stopsign.xnb</Output>
+      <Time>2014-02-27T16:01:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\WRONGHANDS.PNG</Source>
+      <Name>backgrounds\WRONGHANDS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\WRONGHANDS.xnb</Output>
+      <Time>2014-02-15T22:17:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\computervirus.png</Source>
+      <Name>backgrounds\computervirus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\computervirus.xnb</Output>
+      <Time>2014-03-29T20:58:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\infectedcomputer.PNG</Source>
+      <Name>backgrounds\infectedcomputer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\infectedcomputer.xnb</Output>
+      <Time>2014-03-28T00:04:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\scrolling1.JPG</Source>
+      <Name>backgrounds\scrolling1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1.xnb</Output>
+      <Time>2014-03-29T21:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\scrolling1a.png</Source>
+      <Name>backgrounds\scrolling1a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1a.xnb</Output>
+      <Time>2014-03-29T21:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\scrolling1backwards.PNG</Source>
+      <Name>backgrounds\scrolling1backwards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling1backwards.xnb</Output>
+      <Time>2014-03-29T21:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\scrolling2.JPG</Source>
+      <Name>backgrounds\scrolling2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2.xnb</Output>
+      <Time>2014-03-29T21:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\scrolling2a.png</Source>
+      <Name>backgrounds\scrolling2a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2a.xnb</Output>
+      <Time>2014-03-29T21:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\scrolling2backwards.PNG</Source>
+      <Name>backgrounds\scrolling2backwards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\scrolling2backwards.xnb</Output>
+      <Time>2014-03-29T21:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scrolling1.JPG</Source>
+      <Name>scrolling1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1.xnb</Output>
+      <Time>2014-03-29T20:58:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scrolling1backwards.PNG</Source>
+      <Name>scrolling1backwards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1backwards.xnb</Output>
+      <Time>2014-03-29T20:58:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scrolling2.JPG</Source>
+      <Name>scrolling2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2.xnb</Output>
+      <Time>2014-03-29T20:58:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scrolling2backwards.PNG</Source>
+      <Name>scrolling2backwards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2backwards.xnb</Output>
+      <Time>2014-03-29T20:58:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>button.PNG</Source>
+      <Name>button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\button.xnb</Output>
+      <Time>2014-03-29T22:40:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>buttonhit.PNG</Source>
+      <Name>buttonhit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\buttonhit.xnb</Output>
+      <Time>2014-03-29T22:40:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image1.PNG</Source>
+      <Name>changingbackground\image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image1.xnb</Output>
+      <Time>2014-03-29T22:03:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image10.PNG</Source>
+      <Name>changingbackground\image10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image10.xnb</Output>
+      <Time>2014-03-29T22:03:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image2.PNG</Source>
+      <Name>changingbackground\image2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image2.xnb</Output>
+      <Time>2014-03-29T22:03:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image3.PNG</Source>
+      <Name>changingbackground\image3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image3.xnb</Output>
+      <Time>2014-03-29T22:04:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image4.PNG</Source>
+      <Name>changingbackground\image4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image4.xnb</Output>
+      <Time>2014-03-29T21:00:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image5.PNG</Source>
+      <Name>changingbackground\image5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image5.xnb</Output>
+      <Time>2014-03-29T21:02:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image6.PNG</Source>
+      <Name>changingbackground\image6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image6.xnb</Output>
+      <Time>2014-03-29T21:04:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image7.PNG</Source>
+      <Name>changingbackground\image7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image7.xnb</Output>
+      <Time>2014-03-29T21:47:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image8.PNG</Source>
+      <Name>changingbackground\image8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image8.xnb</Output>
+      <Time>2014-03-29T22:02:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>changingbackground\image9.PNG</Source>
+      <Name>changingbackground\image9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\changingbackground\image9.xnb</Output>
+      <Time>2014-03-29T22:03:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>whitebox.png</Source>
+      <Name>whitebox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\whitebox.xnb</Output>
+      <Time>2014-03-30T10:23:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characters\chr1.JPG</Source>
+      <Name>characters\chr1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr1.xnb</Output>
+      <Time>2014-03-29T20:58:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characters\chr2.JPG</Source>
+      <Name>characters\chr2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\characters\chr2.xnb</Output>
+      <Time>2014-03-29T20:58:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\Copy of 191693__fridobeck__explosion-3.wav</Source>
+      <Name>sound\Copy of 191693__fridobeck__explosion-3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\Copy of 191693__fridobeck__explosion-3.xnb</Output>
+      <Time>2013-12-25T21:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\191692__fridobeck__explosion-2.wav</Source>
+      <Name>sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\explosion.xnb</Output>
+      <Time>2013-12-25T21:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\191693__fridobeck__explosion-3.wav</Source>
+      <Name>sound\191693__fridobeck__explosion-3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\191693__fridobeck__explosion-3.xnb</Output>
+      <Time>2013-12-25T21:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\cartoon024.wav</Source>
+      <Name>sound\slice</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\slice.xnb</Output>
+      <Time>2013-12-25T21:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\comic021.wav</Source>
+      <Name>sound\beatup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\beatup.xnb</Output>
+      <Time>2013-12-25T21:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>videos\KUNGFUSONGOPENING sound (1).wav</Source>
+      <Name>videos\KUNGFUSONGOPENING sound (1)</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\KUNGFUSONGOPENING sound (1).xnb</Output>
+      <Time>2014-01-08T23:02:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\My Song 96.wav</Source>
+      <Name>sound\My Song 96</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\My Song 96.xnb</Output>
+      <Time>2014-01-08T03:10:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>content\Font1.spritefont</Source>
+      <Name>content\Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font1.xnb</Output>
+      <Time>2014-01-14T23:01:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>content\Font2.spritefont</Source>
+      <Name>content\Font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\Font2.xnb</Output>
+      <Time>2014-01-14T23:01:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2013-12-25T02:05:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\FONTOFTRUTH.spritefont</Source>
+      <Name>backgrounds\FONTOFTRUTH</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\backgrounds\FONTOFTRUTH.xnb</Output>
+      <Time>2014-02-23T02:48:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>content\SpriteFont1.spritefont</Source>
+      <Name>content\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\content\SpriteFont1.xnb</Output>
+      <Time>2014-03-30T11:59:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>videos\altwinvid1.wmv</Source>
+      <Name>videos\altwinvid1</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\altwinvid1.wmv</Extra>
+      <Time>2014-02-04T01:21:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>videos\openingvid.wmv</Source>
+      <Name>videos\openingvid</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\openingvid.wmv</Extra>
+      <Time>2014-02-04T01:18:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>videos\~PI1E9F.wmv</Source>
+      <Name>videos\JESUSISLORDaltwinvid1</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\JESUSISLORDaltwinvid1.wmv</Extra>
+      <Time>2014-01-14T22:11:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>videos\viruscountdown.wmv</Source>
+      <Name>videos\viruscountdown</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\videos\viruscountdown.wmv</Extra>
+      <Time>2014-03-28T13:26:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bossfight2.mp3</Source>
+      <Name>bossfight2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bossfight2.wma</Extra>
+      <Time>2014-02-22T09:32:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tokensuccess.mp3</Source>
+      <Name>tokensuccess</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\tokensuccess.xnb</Output>
+      <Time>2014-01-26T15:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>youwin.mp3</Source>
+      <Name>youwin</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\youwin.wma</Extra>
+      <Time>2014-01-26T15:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\bgmusic01.mp3</Source>
+      <Name>sound\bgmusic01</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\sound\bgmusic01.wma</Extra>
+      <Time>2014-02-22T09:32:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bgmusic01.mp3</Source>
+      <Name>bgmusic01</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\bgmusic01.wma</Extra>
+      <Time>2014-02-22T09:32:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>scrolling1a.png</Source>
+      <Name>scrolling1a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling1a.xnb</Output>
+      <Time>2018-12-02T00:29:52.6510959-06:00</Time>
+    </Item>
+    <Item>
+      <Source>scrolling2a.png</Source>
+      <Name>scrolling2a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\scrolling2a.xnb</Output>
+      <Time>2018-12-02T00:29:52.6900779-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS IIT TECH LAB TTS GAME (80)\XNAFAST DAY 39\JESUSISLORDplatformer\JESUSISLORDplatformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-08T01:47:36.7323102-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
