@@ -58,3 +58,18 @@ a,s,d,f,g,h,j
 Reads the text on the screen
 
 
+---------------------
+(2026 Reflection)
+Okay I wasn't a student at IIT but I would come to all their hackathons. 
+
+Now in 2026, I am finally a student at IIT. They don't even call themselves Illinois Institute of Technology anymore or abbreviate it with IIT. 
+They, I mean WE since I am now a student say ILLINOIS TECH. That's what we call the school. 
+
+I'm going for my masters degree in Artificial Intelligence. 
+People agree or disagree on the reality of AI replacing software engineers. But I am a computer scientist of software and hardware. I can simply learn more science
+and just have an AI job of software engineering goes away (hypothetically speaking). So I'm just getting a masters degree in AI and learn all the hard stuff and the math
+behind everything.
+
+Of course the stuff like Vector Databases, RAG, LLM, OpenCV, and simple Prompt Engineering is stuff I know already. But they teach that real stuff. The stuff that's not easy 
+to learn. That's what I'm here for.
+
